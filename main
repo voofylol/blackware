@@ -1,5 +1,5 @@
 
---i made this open source for a reason, skid all u want idc
+--if made this open source for a reason
 
 
 local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
@@ -267,7 +267,7 @@ section1:button({name = "Close",callback = function()
 local CC = game:GetService"Workspace".CurrentCamera
     local Plr
     local enabled = falseWD
-    local accomidationfactor = 0.121192
+    local accomidationfactor = 0.13
     local mouse = game.Players.LocalPlayer:GetMouse()
     local placemarker = Instance.new("Part", game.Workspace)
 
